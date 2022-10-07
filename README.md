@@ -1,5 +1,5 @@
 # Climate-researcher
-Project to research climate by city. Credits to the youtube channel: Matheus Battisti.
+Project to research climate. Credits to the youtube channel: Matheus Battisti.
 Before starting the project, create an individual apiKey on the website: https://openweathermap.org/
 Once this is done, download the project and in the js file define a constant with your APIKEY so that it works. And to start the project, open it with Live Server (VSCODE extension) or go to the file folders and open the html file.
 
